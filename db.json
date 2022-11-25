@@ -14,8 +14,8 @@
 {"id":3,"materia":"Física","tipo":"Individual","frecuencia":"semanal","calificación":"2"},
 {"id":4,"materia":"Sistemas","tipo":"Grupal","frecuencia":"diaria","calificación":"4"}
 ],
-  "dataClases" = [
-  { id: 1, nombre: 'Integrales', materia: 'Calculo', duracion: '5', frecuencia: 'Semanal', costo: '5', estado: 'No publicada' },
-  { id: 2, nombre: 'Carbono', materia: 'Química', duracion: '3', frecuencia: 'Única', costo: '7', estado: 'Publicada' },
-    ];
+  "dataClases" :[
+{ id: 1, nombre: 'Integrales', materia: 'Calculo', duracion: '5', frecuencia: 'Semanal', costo: '5', estado: 'No publicada' },
+{ id: 2, nombre: 'Carbono', materia: 'Química', duracion: '3', frecuencia: 'Única', costo: '7', estado: 'Publicada' },
+  ];
 }
