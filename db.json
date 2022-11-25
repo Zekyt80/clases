@@ -16,5 +16,5 @@
 ],
   "dataClases" :[
 { "id": 1, "nombre": "Integrales", "materia": "Calculo", "duracion": "5", "frecuenci": "Semanal", "costo": "5", "estado": "No publicada" },
-];
+],
 }
