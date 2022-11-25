@@ -13,5 +13,5 @@
 {"id":2,"materia":"Matemáticas","tipo":"Grupal","frecuencia":"diaria","calificación":"3"},
 {"id":3,"materia":"Física","tipo":"Individual","frecuencia":"semanal","calificación":"2"},
 {"id":4,"materia":"Sistemas","tipo":"Grupal","frecuencia":"diaria","calificación":"4"}
-],
+]
 }
